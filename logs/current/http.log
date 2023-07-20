@@ -1,0 +1,7 @@
+ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	trans_depth	method	host	uri	referrer	version	user_agent	origin	request_body_len	response_body_len	status_code	status_msg	info_code	info_msg	tags	username	password	proxied	orig_fuids	orig_filenames	orig_mime_types	resp_fuids	resp_filenames	resp_mime_types
+1689665647.086063	CZ3s1VpSNlrvHpcm1	192.168.144.133	37790	185.125.190.17	80	1	GET	connectivity-check.ubuntu.com	/	-	1.1	-	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1689665896.260101	C4W6n39BCk99hP3fi	192.168.144.131	49514	35.224.170.84	80	1	GET	connectivity-check.ubuntu.com	/	-	1.1	-	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1689665947.322319	CCaDGa3xW04txgf6Qh	192.168.144.133	39996	35.224.170.84	80	1	GET	connectivity-check.ubuntu.com	/	-	1.1	-	-	0	0	204	No Content	-	-	(empty)	-	-	-	-	-	-	-	-	-
+1689666061.239955	CT9Tg72tvGC4ITYHnb	192.168.144.128	60048	192.168.144.133	8000	1	POST	192.168.144.133:8000	/	-	1.0	curl/7.85.0	-	0	758	200	OK	-	-	(empty)	-	-	-	-	-	-	F1gSk92DHzOcH6WcZd	resized_out.png	image/png
+1689666063.411018	CKN5zF3RazzIA9REse	192.168.144.128	60050	192.168.144.133	8000	1	POST	192.168.144.133:8000	/	-	1.0	curl/7.85.0	-	458	263	302	FOUND	-	-	(empty)	-	-	-	FLmqgn46Btdto4gLai	rce.eps	application/postscript	Ft4Kx20DNR2CJdr49	-	text/html
+1689666063.534105	CCnxnG2myIDcuYczD4	192.168.144.128	60052	192.168.144.133	8000	1	POST	192.168.144.133:8000	/	-	1.0	curl/7.85.0	-	444	1651	200	OK	-	-	(empty)	-	-	-	FnwLfT2mt5dkKI5kSa	rce.jpg	application/postscript	FEscBo38kBMnGHvLz2	resized_rce.jpg	image/jpeg

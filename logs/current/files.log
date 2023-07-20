@@ -1,0 +1,7 @@
+ts	fuid	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted	extracted_cutoff	extracted_size
+1689666063.371990	F1gSk92DHzOcH6WcZd	CT9Tg72tvGC4ITYHnb	192.168.144.128	60048	192.168.144.133	8000	HTTP	0	(empty)	image/png	resized_out.png	0.000000	T	F	758	758	0	0	F	-	-	-	-	-	-	-
+1689666063.411019	FLmqgn46Btdto4gLai	CKN5zF3RazzIA9REse	192.168.144.128	60050	192.168.144.133	8000	HTTP	0	(empty)	application/postscript	rce.eps	0.000000	T	T	258	-	0	0	F	-	-	-	-	-	-	-
+1689666063.511342	Ft4Kx20DNR2CJdr49	CKN5zF3RazzIA9REse	192.168.144.128	60050	192.168.144.133	8000	HTTP	0	(empty)	text/html	-	0.000000	T	F	263	263	0	0	F	-	-	-	-	-	-	-
+1689666063.534573	FnwLfT2mt5dkKI5kSa	CCnxnG2myIDcuYczD4	192.168.144.128	60052	192.168.144.133	8000	HTTP	0	(empty)	application/postscript	rce.jpg	0.000000	T	T	258	-	0	0	F	-	-	-	-	-	-	-
+1689666064.906911	FEscBo38kBMnGHvLz2	CCnxnG2myIDcuYczD4	192.168.144.128	60052	192.168.144.133	8000	HTTP	0	(empty)	image/jpeg	resized_rce.jpg	0.000000	T	F	1651	1651	0	0	F	-	-	-	-	-	-	-
+1689666064.923977	FrhMcv4xAUDn89CYyk	CAbuZA4L2voyXLgvDb	192.168.144.128	60054	192.168.144.133	8000	HTTP	0	(empty)	application/postscript	try.jpg	0.000000	T	T	229	-	0	0	F	-	-	-	-	-	-	-

@@ -1,0 +1,18 @@
+ts	ty	ev	peer.address	peer.bound_port	message
+1689697053.143403	Broker::STATUS	peer-added	192.168.144.138	38920	handshake successful
+1689697053.145130	Broker::STATUS	peer-added	192.168.144.138	27761	handshake successful
+1689697057.903700	Broker::STATUS	peer-added	192.168.144.138	38936	handshake successful
+1689697057.911578	Broker::STATUS	peer-added	192.168.144.138	27762	handshake successful
+1689697057.906796	Broker::STATUS	peer-added	192.168.144.138	27761	handshake successful
+1689697057.908714	Broker::STATUS	peer-added	192.168.144.138	43730	handshake successful
+1689697065.126879	Broker::STATUS	peer-added	192.168.144.138	52424	handshake successful
+1689697065.159276	Broker::STATUS	peer-added	192.168.144.138	48012	handshake successful
+1689697065.153368	Broker::STATUS	peer-added	192.168.144.138	37800	handshake successful
+1689697065.152202	Broker::STATUS	peer-added	192.168.144.138	27762	handshake successful
+1689697065.152911	Broker::STATUS	peer-added	192.168.144.138	27763	handshake successful
+1689697065.127304	Broker::STATUS	peer-added	192.168.144.138	27761	handshake successful
+1689697066.383958	Broker::STATUS	peer-added	192.168.144.138	52436	handshake successful
+1689697066.394812	Broker::STATUS	peer-added	192.168.144.138	48026	handshake successful
+1689697066.431327	Broker::STATUS	peer-added	192.168.144.138	37804	handshake successful
+1689697066.432792	Broker::STATUS	peer-added	192.168.144.138	27762	handshake successful
+1689697066.379818	Broker::STATUS	peer-added	192.168.144.138	27761	handshake successful

@@ -1,0 +1,2 @@
+ts	id	machine	compile_ts	os	subsystem	is_exe	is_64bit	uses_aslr	uses_dep	uses_code_integrity	uses_seh	has_import_table	has_export_table	has_cert_table	has_debug_data	section_names
+1689567637.294590	FrOyVO3M5jK0kQPGa1	I386	1373010587.000000	Windows XP	WINDOWS_GUI	T	F	T	T	F	T	T	T	F	F	.text,.rdata,.data,.reloc

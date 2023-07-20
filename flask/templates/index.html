@@ -1,0 +1,33 @@
+<h3>Our Flask Buttons<h3/>
+    <div class="start">
+    <form method="post" action="/">
+        <input type="submit" value="Get Hints" name="getHints"/>
+        <input type="submit" value="Train" name="train" />
+        <input type="submit" value="Retrain" name="retrain"/>
+        <input type="submit" value="Compare" name="compare" />
+        <input type="submit" value="Show Clusters" name="showClusters"/>
+        <input type="submit" value="Save" name="save" />
+
+    </form>
+</div>
+
+<div class="train" style="visibility:{{ visibility }}">
+    
+    <form>
+        <label for="clusters">Number of clusters: </label>
+        <input type="number" name="clusters"  required>
+        <br>
+        <label for="pca">PCA components: </label>
+        <input type="number" name="pca"  required>
+        <br>
+        <p>Algorithm:</p>
+        <input type="radio" id="iforest" name="algorithm" value="IForest">
+        <label for="iforest">IForest</label><br>
+        
+        <input type="radio" id="svm" name="fav_language" value="1-SVM">
+        <label for="svm">1-SVM</label><br>
+        <br>
+       
+        <input type="submit" value="Send">
+    </form>
+</div>
